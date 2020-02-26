@@ -48,7 +48,7 @@ You can edit a copy of an answer if you would like to make edits without changin
 
 ## Other features
 
-At the bottom of the **Answers** page, you can an additional area, called
+At the bottom of the **Answers** page, you can see an additional area, called
 **SpotIQ Insights**. This area is derived from your
 original answer and you can select any of the insights to deepen your search.
 
